@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Yomigaeri（feat. 槇原敬之、絢香）",
+  "base_artist": "ビッケブランカ",
+  "createdAt": "2025-12-18T16:27:50.352493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yomigaeri (with 槇原敬之 & 絢香)",
+      "artist": "ビッケブランカ",
+      "has_synced": false,
+      "path": "select/pl_01_Yomigaeri_(with_槇原敬之_&_絢香)_ビッケブランカ.txt"
+    }
+  ]
+}
